@@ -1,6 +1,3 @@
-Here is the **complete documentation in one continuous block** so you can copy it directly into a README or documentation file.
-
----
 
 # Confluence RAG Chatbot using AWS Bedrock
 
@@ -411,5 +408,3 @@ This project demonstrates how to build an AI-powered knowledge assistant that co
 By integrating Confluence documentation, vector embeddings, and large language models, the system can generate accurate and context-aware answers grounded in internal knowledge.
 
 ---
-
-If you want, I can also help you create a **much more impressive GitHub README with architecture diagrams and visuals**, which will make the project stand out significantly when recruiters view it.
